@@ -24,7 +24,7 @@ The primary goal of this project is to conduct a comprehensive analysis of India
 
 ## About the Dataset
 
-The dataset used in this project is sourced from <a href="">DataSet</a>, titled "Indian Food 101." It consists of various details about 255 traditional Indian dishes, including:
+The dataset used in this project is sourced from <a href="https://github.com/SandaminiW/Indian-Foods-/blob/main/indian_food.csv">DataSet</a>, titled "Indian Food 101." It consists of various details about 255 traditional Indian dishes, including:
 - Dish name: The name of the dish.
 - Ingredients: Key ingredients used in each dish.
 - Diet: Whether the dish is vegetarian or non-vegetarian.
